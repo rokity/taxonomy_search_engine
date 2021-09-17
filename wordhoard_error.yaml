@@ -1,0 +1,66 @@
+2021-09-15 10:18:11:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2021-09-15 10:18:11:wordhoard.utilities.basic_soup:ERROR: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2021-09-15 10:18:11:wordhoard.utilities.basic_soup:ERROR: Associated URL: https://www.synonym.com/synonyms/Databases
+2021-09-15 10:18:11:wordhoard.synonyms:INFO: Synonym.com had no synonym reference for the word Databases
+2021-09-15 10:40:50:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2021-09-15 10:40:50:wordhoard.utilities.basic_soup:ERROR: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2021-09-15 10:40:50:wordhoard.utilities.basic_soup:ERROR: Associated URL: https://www.merriam-webster.com/thesaurus/Predictive Maintenance
+2021-09-15 10:40:50:wordhoard.synonyms:INFO: Merriam-webster.com had no synonym reference for the word Predictive Maintenance
+2021-09-15 10:40:51:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2021-09-15 10:40:51:wordhoard.utilities.basic_soup:ERROR: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2021-09-15 10:40:51:wordhoard.utilities.basic_soup:ERROR: Associated URL: https://www.synonym.com/synonyms/Predictive Maintenance
+2021-09-15 10:40:51:wordhoard.synonyms:INFO: Synonym.com had no synonym reference for the word Predictive Maintenance
+2021-09-15 10:40:52:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2021-09-15 10:40:52:wordhoard.utilities.basic_soup:ERROR: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2021-09-15 10:40:52:wordhoard.utilities.basic_soup:ERROR: Associated URL: https://www.thesaurus.com/browse/Predictive Maintenance
+2021-09-15 10:40:52:wordhoard.synonyms:INFO: Thesaurus.com had no synonym reference for the word Predictive Maintenance
+2021-09-15 10:40:52:wordhoard.synonyms:INFO: Wordnet had no synonym reference for the word Predictive Maintenance
+2021-09-15 10:41:48:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2021-09-15 10:41:48:wordhoard.utilities.basic_soup:ERROR: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2021-09-15 10:41:48:wordhoard.utilities.basic_soup:ERROR: Associated URL: https://www.merriam-webster.com/thesaurus/predictive maintenance
+2021-09-15 10:41:48:wordhoard.synonyms:INFO: Merriam-webster.com had no synonym reference for the word predictive maintenance
+2021-09-15 10:41:49:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2021-09-15 10:41:49:wordhoard.utilities.basic_soup:ERROR: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2021-09-15 10:41:49:wordhoard.utilities.basic_soup:ERROR: Associated URL: https://www.synonym.com/synonyms/predictive maintenance
+2021-09-15 10:41:49:wordhoard.synonyms:INFO: Synonym.com had no synonym reference for the word predictive maintenance
+2021-09-15 10:41:49:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2021-09-15 10:41:49:wordhoard.utilities.basic_soup:ERROR: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2021-09-15 10:41:49:wordhoard.utilities.basic_soup:ERROR: Associated URL: https://www.thesaurus.com/browse/predictive maintenance
+2021-09-15 10:41:49:wordhoard.synonyms:INFO: Thesaurus.com had no synonym reference for the word predictive maintenance
+2021-09-15 10:41:50:wordhoard.synonyms:INFO: Wordnet had no synonym reference for the word predictive maintenance
+2021-09-15 10:42:05:wordhoard.synonyms:INFO: Collins Dictionary had no synonym reference for the word iot
+2021-09-15 10:42:06:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2021-09-15 10:42:06:wordhoard.utilities.basic_soup:ERROR: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2021-09-15 10:42:06:wordhoard.utilities.basic_soup:ERROR: Associated URL: https://www.merriam-webster.com/thesaurus/iot
+2021-09-15 10:42:06:wordhoard.synonyms:INFO: Merriam-webster.com had no synonym reference for the word iot
+2021-09-15 10:42:07:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2021-09-15 10:42:07:wordhoard.utilities.basic_soup:ERROR: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2021-09-15 10:42:07:wordhoard.utilities.basic_soup:ERROR: Associated URL: https://www.synonym.com/synonyms/iot
+2021-09-15 10:42:07:wordhoard.synonyms:INFO: Synonym.com had no synonym reference for the word iot
+2021-09-15 10:42:07:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2021-09-15 10:42:07:wordhoard.utilities.basic_soup:ERROR: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2021-09-15 10:42:07:wordhoard.utilities.basic_soup:ERROR: Associated URL: https://www.thesaurus.com/browse/iot
+2021-09-15 10:42:07:wordhoard.synonyms:INFO: Thesaurus.com had no synonym reference for the word iot
+2021-09-15 10:42:07:wordhoard.synonyms:INFO: Wordnet had no synonym reference for the word iot
+2021-09-16 12:15:10:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2021-09-16 12:15:10:wordhoard.utilities.basic_soup:ERROR: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2021-09-16 12:15:10:wordhoard.utilities.basic_soup:ERROR: Associated URL: https://www.synonym.com/synonyms/predicting
+2021-09-16 12:15:10:wordhoard.synonyms:INFO: Synonym.com had no synonym reference for the word predicting
+2021-09-16 12:15:12:wordhoard.synonyms:INFO: Wordnet had no synonym reference for the word predicting
+2021-09-16 12:15:15:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2021-09-16 12:15:15:wordhoard.utilities.basic_soup:ERROR: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2021-09-16 12:15:15:wordhoard.utilities.basic_soup:ERROR: Associated URL: https://www.synonym.com/synonyms/defects
+2021-09-16 12:15:15:wordhoard.synonyms:INFO: Synonym.com had no synonym reference for the word defects
+2021-09-16 12:15:41:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2021-09-16 12:15:41:wordhoard.utilities.basic_soup:ERROR: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2021-09-16 12:15:41:wordhoard.utilities.basic_soup:ERROR: Associated URL: https://www.merriam-webster.com/thesaurus/cloud computing
+2021-09-16 12:15:41:wordhoard.synonyms:INFO: Merriam-webster.com had no synonym reference for the word cloud computing
+2021-09-16 12:15:42:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2021-09-16 12:15:42:wordhoard.utilities.basic_soup:ERROR: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2021-09-16 12:15:42:wordhoard.utilities.basic_soup:ERROR: Associated URL: https://www.synonym.com/synonyms/cloud computing
+2021-09-16 12:15:42:wordhoard.synonyms:INFO: Synonym.com had no synonym reference for the word cloud computing
+2021-09-16 12:15:43:wordhoard.utilities.basic_soup:ERROR: Response Status Code: 404
+2021-09-16 12:15:43:wordhoard.utilities.basic_soup:ERROR: The HTTP 404 Not Found status code means that the file or page that the was requested was not found on the server
+2021-09-16 12:15:43:wordhoard.utilities.basic_soup:ERROR: Associated URL: https://www.thesaurus.com/browse/cloud computing
+2021-09-16 12:15:43:wordhoard.synonyms:INFO: Thesaurus.com had no synonym reference for the word cloud computing
+2021-09-16 12:15:44:wordhoard.synonyms:INFO: Wordnet had no synonym reference for the word cloud computing
